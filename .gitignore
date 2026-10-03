@@ -1,0 +1,7 @@
+*.asv
+*.m~
+*.slxc
+*.mex*
+*.log
+*.mat
+slprj/
